@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wnsgk0410
 - 👀 I’m interested in React
 - 🌱 I’m currently learning JS
-- 📫 How to reach me wnsgk0410@naver.com or wnsgk0410@gmail.com
+- 📫 How to reach me wnsgk0410@naver.com
 
 <!---
 wnsgk0410/wnsgk0410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
